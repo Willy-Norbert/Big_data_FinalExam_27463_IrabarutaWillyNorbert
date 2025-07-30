@@ -64,8 +64,6 @@
 
 ## Screenshots
 
-## Screenshots
-
 ### Loading Data
 ![Loading data](screenshots/loadingData.jpg)
 
