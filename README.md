@@ -75,6 +75,9 @@
 ### Dashboard
 ![DAX](screenshots/myDashboard.jpg)
 
+### using tooltips
+![Tooltips](screenshots/page_used_as_tooltip.jpg)
+
 ---
 
 
